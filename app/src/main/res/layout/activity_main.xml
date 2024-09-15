@@ -118,6 +118,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Remember me"
+                    android:textColor="@color/my_secondary_color"
                     android:alpha="0.7"/>
                 <TextView
                     android:layout_width="wrap_content"
@@ -125,6 +126,7 @@
                     android:text="I forgot my password"
                     android:layout_alignParentEnd="true"
                     android:layout_centerVertical="true"
+                    android:textColor="@color/my_secondary_color"
                     />
 
             </RelativeLayout>
